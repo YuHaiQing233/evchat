@@ -1,0 +1,20 @@
+# node_modules 依赖包
+node_modules/
+
+# 构建输出目录
+dist/
+build/
+
+# 日志文件
+*.log
+
+# 环境变量文件
+.env
+.env.local
+
+# Electron 打包输出
+release/
+out/
+
+# VSCode 配置
+.vscode/
